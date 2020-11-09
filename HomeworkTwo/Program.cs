@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design.Serialization;
 using System.Linq;
@@ -97,6 +97,7 @@ namespace HomeworkTwo
         
     static void Main()
         {
+            Console.WriteLine("Кирилл Муромцев");
             Password();
             LessNum();
             SumOfNum();
